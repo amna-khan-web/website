@@ -1,0 +1,7 @@
+blockquote  { text is in bockquote}
+footer
+text end
+list-inline{all items in 1 line}
+img-fluid { responsive hoty h img through this}
+max-width [ 100%]
+height {auto}
